@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
     Size size = MediaQuery.of(context).size;
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'BMI Calculator',
+        title: 'SpaceTonic',
         theme: ThemeData(
           scaffoldBackgroundColor: Colors.amberAccent,
           primarySwatch: primarycolor,
@@ -59,8 +59,19 @@ class _MyAppState extends State<MyApp> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
+                  Padding(
+                    padding: EdgeInsets.all(size.height * 0.01),
+                    child: Text(
+                      "BMI Calculator",
+                      style: TextStyle(fontSize: size.height * 0.1),
+                    ),
+                  ),
                   Container(
-                    color: contColor,
+                    // color: contColor,
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(10),
+                      color: contColor,
+                    ),
                     child: Padding(
                       padding: EdgeInsets.all(size.height * 0.01),
                       child: Column(
@@ -128,6 +139,9 @@ class _MyAppState extends State<MyApp> {
                           contColor = Colors.red;
                           bmiT = "Obese";
                         }
+
+                        height.clear();
+                        weight.clear();
                       });
                     },
                     child: const Text("Calculate BMI"),
