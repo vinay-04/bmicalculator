@@ -1,4 +1,4 @@
-#Mon Mar 20 23:23:05 IST 2023
+#Tue Mar 21 11:16:38 IST 2023
 base.0=/Users/vinayrajan/Desktop/code/flutter/bmicalculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
