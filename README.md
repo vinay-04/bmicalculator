@@ -2,11 +2,12 @@
 
 BMI calculator using flutter.
 
-![ss1](assets/ss1.jpeg)
-![ss2](assets/ss2.jpeg)
-![ss3](assets/ss3.jpeg)
-![ss4](assets/ss4.jpeg)
-![ss5](assets/ss5.jpeg)
+<!-- ![ss1](assets/ss1.jpeg) -->
+<img src="assets/ss1.jpeg" alt= “” width="100" height="200">
+<img src="assets/ss2.jpeg" alt= “” width="100" height="200">
+<img src="assets/ss3.jpeg" alt= “” width="100" height="200">
+<img src="assets/ss4.jpeg" alt= “” width="100" height="200">
+<img src="assets/ss5.jpeg" alt= “” width="100" height="200">
 
 # GDSC Tasks
 
