@@ -2,7 +2,7 @@
 
 BMI calculator using flutter.
 
-<img src="assets/ss1.jpeg" alt= “” width="100" height="200"><img src="assets/ss2.jpeg" alt= “” width="100" height="200"><img src="assets/ss3.jpeg" alt= “” width="100" height="200"><img src="assets/ss4.jpeg" alt= “” width="100" height="200"><img src="assets/ss5.jpeg" alt= “” width="100" height="200">
+<img src="assets/ss2.jpeg" alt= “” width="100" height="200"><img src="assets/ss3.jpeg" alt= “” width="100" height="200"><img src="assets/ss1.jpeg" alt= “” width="100" height="200"><img src="assets/ss4.jpeg" alt= “” width="100" height="200"><img src="assets/ss5.jpeg" alt= “” width="100" height="200">
 
 # GDSC Tasks
 
